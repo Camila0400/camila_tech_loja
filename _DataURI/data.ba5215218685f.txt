@@ -1,0 +1,1 @@
+chrome-extension://jdcfmebflppkljibgpdlboifpcaalolg/content-scripts/capture-coupons/loader.js

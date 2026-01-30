@@ -1,0 +1,1 @@
+chrome-extension://aikddpkehjfmhgjkbkicaeikmmkklhfd/text-detector/all-page-inject.js
